@@ -1,7 +1,7 @@
 ﻿<?php
 
 // Replace this with your own email address
-$siteOwnersEmail = 'website@psonderegger.at';
+$siteOwnersEmail = 'contact@psonderegger.at';
 
 
 if($_POST) {

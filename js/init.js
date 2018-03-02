@@ -3,7 +3,7 @@ jQuery(document).ready(function($) {
     setTimeout(function() {
         $('h1.responsive-headline').fitText(1, { minFontSize: '40px', maxFontSize: '90px' });
     }, 100);
-        
+
     /* TypeIt initialize */
     new TypeIt('#typewriter', {
         strings: "I am Patrick Sonderegger, a Vienna based <span>frontend developer</span> with an affinity for <span>backend development</span>. Let's <a class='smoothscroll' href='#about'>start scrolling</a> and learn more <a class='smoothscroll' href='#about'>about me</a>.",

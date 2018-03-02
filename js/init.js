@@ -1,5 +1,4 @@
 jQuery(document).ready(function($) {
-    /* FitText Settings */
     setTimeout(function() {
         $('h1.responsive-headline').fitText(1, { minFontSize: '40px', maxFontSize: '90px' });
     }, 100);
@@ -15,7 +14,7 @@ jQuery(document).ready(function($) {
     });
 
     /* Smooth Scrolling */
-   $('.smoothscroll').on('click',function (e) {
+   $(document).on('click', '.smoothscroll', function (e) {
 	    e.preventDefault();
 
 	    var target = this.hash;

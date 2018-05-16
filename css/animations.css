@@ -63,7 +63,7 @@
     width: 0px;
   }
   100% {
-    width: 60%;
+    width: 75%;
   }
 }
 @keyframes illustrator {
@@ -111,7 +111,7 @@
     width: 0px;
   }
   100% {
-    width: 60%;
+    width: 75%;
   }
 }
 @-moz-keyframes illustrator {
@@ -159,7 +159,7 @@
     width: 0px;
   }
   100% {
-    width: 60%;
+    width: 75%;
   }
 }
 @-webkit-keyframes illustrator {

@@ -1121,7 +1121,7 @@ input[type="checkbox"] {
     width: 0px;
   }
   100% {
-    width: 60%;
+    width: 75%;
   }
 }
 @keyframes illustrator {
@@ -1169,7 +1169,7 @@ input[type="checkbox"] {
     width: 0px;
   }
   100% {
-    width: 60%;
+    width: 75%;
   }
 }
 @-moz-keyframes illustrator {
@@ -1217,7 +1217,7 @@ input[type="checkbox"] {
     width: 0px;
   }
   100% {
-    width: 60%;
+    width: 75%;
   }
 }
 @-webkit-keyframes illustrator {
@@ -1589,7 +1589,7 @@ ul#nav li.current a {
   border-radius: 3px 0 0 3px;
 }
 .photoshop {
-  width: 60%;
+  width: 75%;
   animation: photoshop 2s ease;
   -moz-animation: photoshop 2s ease;
   -webkit-animation: photoshop 2s ease;
